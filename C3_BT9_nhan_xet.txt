@@ -1,0 +1,6 @@
+1) Tập dữ liệu có 12 sinh viên, điểm Score trung bình là 8.00.
+2) Tổng điểm (Total) trung bình là 8.54, cho thấy mặt bằng chung ở mức khá.
+3) City nổi bật nhất là HCM với mean Score = 8.36.
+4) Class có tổng điểm cao nhất là KTPM3 với mean Total = 9.83.
+5) Số điểm bất thường (Score > 9.5 hoặc < 5) là 1 trường hợp.
+6) Học lực phân bố nhiều nhất ở nhóm 'Giỏi', cần theo dõi các nhóm còn lại.
