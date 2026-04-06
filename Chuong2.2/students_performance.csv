@@ -1,0 +1,13 @@
+ID,Name,Age,Score,City,Bonus,Class
+1,  an,20,8.5,hcm,0.5,KTPM1
+2,Binh ,21,9.0,HN,1.0,KTPM1
+3,Chi,22,,hcm,0.0,KTPM2
+4,An,20,8.5,HCM,0.5,KTPM1
+5,Dung,,7.0,hn,0.5,KTPM2
+6,Em,19,6.5,,0.0,KTPM1
+7,Fuong,21,9.5,HCM,1.5,KTPM3
+8,giang ,20,,HN,0.5,KTPM2
+9,Hoa,22,10.0,hcm,1.0,KTPM3
+10,An,20,8.5,HCM,0.5,KTPM1
+11,lan,21,5.5,hcm,0.0,KTPM2
+12,Minh,22,7.0,HN,0.5,KTPM3
